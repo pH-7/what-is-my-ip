@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 What Is My IP - Python CGI Script
 ================
 
