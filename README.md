@@ -33,4 +33,3 @@ what-is-my-ip
 =============
 
 A very simple site that displays the public IP address as the many similar sites to "What's My IP Address"
->>>>>>> 73631a9b50cd33624a1f5b0acb4d0a361c97a79f
